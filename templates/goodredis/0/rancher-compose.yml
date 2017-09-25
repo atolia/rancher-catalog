@@ -1,3 +1,9 @@
+.catalog:
+  name: "goodredis"
+  version: "v3.0"
+  description: "Redis server ."
+  uuid: redis-0
+  minimum_rancher_version: v1.0.0
 version: '2'
 services:
   redis:
