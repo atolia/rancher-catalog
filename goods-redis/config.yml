@@ -1,0 +1,5 @@
+name: GoodsRedis
+description: |
+  Redis server + Sentinel
+version: "3.0"
+category: Databases
