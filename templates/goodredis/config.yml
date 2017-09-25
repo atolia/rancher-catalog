@@ -1,4 +1,4 @@
-name: GoodsRedis
+name: Goods Redis Server
 description: |
   Redis server + Sentinel
 version: "3.0"
